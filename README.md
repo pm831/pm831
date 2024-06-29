@@ -5,6 +5,9 @@ Pujan Malavia (P.J.) is a versatile and innovative Senior Data Analytics Profess
 * LinkedIn: https://www.linkedin.com/in/pujanmalavia/
 * GitHub: www.github.com/pm831
 * Tableau: https://public.tableau.com/profile/pujan.malavia#!/
+
+  ![Image](https://github.com/pm831/pm831/assets/19572673/808dd9a7-f913-4e37-aadd-12df25b2707f)
+  
 ## Recent Linkedin Articles:
 * ### [Apache Spark / PySpark: Building a Spotify ETL Data Pipeline](https://www.linkedin.com/pulse/apache-spark-pyspark-building-spotify-etl-data-pujan-malavia-p-j--swjpc/)
 * ### [Apache Airflow Dags (Twitter Tweets)](https://www.linkedin.com/pulse/apache-airflow-dags-twitter-tweets-pujan-malavia-p-j--i333c/)
