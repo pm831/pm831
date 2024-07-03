@@ -6,7 +6,7 @@ Pujan Malavia (P.J.) is a versatile and innovative Senior Data Analytics Profess
    - I'm looking to collaborate and create some cool data analytics & engineering content that we can share with the community.
    - You can find various data analytics & engineering projects on my profile.
 
-Feel free to connect with me on LinkedIn! 
+**Feel free to connect with me on LinkedIn!**
 
 * LinkedIn: https://www.linkedin.com/in/pujanmalavia/
 * GitHub: www.github.com/pm831
